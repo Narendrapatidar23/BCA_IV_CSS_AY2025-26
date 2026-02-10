@@ -124,8 +124,8 @@
 
 | File | Purpose | Setup Time |
 |------|---------|-----------|
+| **[W1-D1-Environment-Setup.md](./Guides/W1-D1-Environment-Setup.md)** | How to setup coding environment | 30 minutes |
 | **[GitHub-Classroom-Guide.md](./Guides/GitHub-Classroom-Guide.md)** | How to use GitHub, Git basics | 1 hour |
-| **[Assessment-Framework.md](./Guides/Assessment-Framework.md)** | Grading rubric, evaluation (ready) | Review |
 
 ### 💻 Sample Code
 

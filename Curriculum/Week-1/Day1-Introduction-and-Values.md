@@ -90,7 +90,8 @@ By the end of Week 1, students will be able to:
 └─────────────────────────────────┘
 ```
 
-### Environment Setup
+### Environment Setup - [(Detailed Instructions)][env-setup-link]
+
 
 **Three Ways to Run JavaScript:**
 
@@ -593,3 +594,5 @@ A: Yes! Node.js lets you run JavaScript on your computer or server, just like Py
 ---
 
 **Next:** Day 2 - Types & Operators Part 1
+
+[env-setup-link]: ../Guides/W1-D1-Environment-Setup.md
