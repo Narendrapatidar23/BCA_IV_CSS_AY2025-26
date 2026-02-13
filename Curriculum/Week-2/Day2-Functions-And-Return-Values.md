@@ -10,6 +10,8 @@
 
 ### 1. What is a Function?
 
+**Integer**: A whole number (positive, negative, or zero) without a decimal point. Examples: -5, 0, 42, 1000. Different from floating-point numbers like 3.14 or 2.5, which have decimal values.
+
 A **function** is a reusable block of code that performs a specific task.
 
 **Real-World Analogy:** A function is like a kitchen appliance
@@ -163,7 +165,9 @@ console.log(`Name: ${name}, Age: ${age}`);
 
 ### 6. Arrow Functions (Modern Syntax)
 
-**Arrow functions** are a shorter way to write functions (ES6+).
+**Arrow function**: A concise, modern syntax for writing functions (introduced in ES6). Uses the `=>` (arrow) symbol instead of the `function` keyword. Arrow functions are often shorter and more readable than traditional functions, especially for simple one-line operations.
+
+Arrow functions are a shorter way to write functions (ES6+).
 
 ```javascript
 // ============================================

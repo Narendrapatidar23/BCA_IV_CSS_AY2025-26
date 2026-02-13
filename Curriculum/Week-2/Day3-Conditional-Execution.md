@@ -182,6 +182,8 @@ if (hour < 12) {
 
 ### 5. Comparison Operators (Conditions)
 
+**Remainder**: The value left over after division. For example, when you divide 7 by 2, the result is 3 with a remainder of 1. In JavaScript, the `%` operator (called "modulus") gives you just the remainder part: `7 % 2` equals `1`.
+
 Conditions use comparison operators to return true/false:
 
 ```javascript

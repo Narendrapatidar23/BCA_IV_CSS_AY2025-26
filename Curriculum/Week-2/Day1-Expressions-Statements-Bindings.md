@@ -85,6 +85,8 @@ Think of a recipe:
 
 ### 2. Bindings (Variables) - Storing Values
 
+**Binding** (also called "variable"): A named storage location that holds a value. You declare a binding with `const` or `let`, and then you can access that value anytime by using the name. Think of it like a labeled box that keeps a value safe until you need it.
+
 Variables are like named boxes 📦 that store values. When you need that value later, you just refer to the box name.
 
 #### Three Ways to Declare Variables
@@ -152,6 +154,8 @@ let user name = "Error";          // ❌ Spaces not allowed
 let let = "Error";                // ❌ Reserved word
 let if = "Error";                 // ❌ Reserved word
 ```
+
+**Scope**: The region of your code where a variable exists and can be used. Variables declared with `const` or `let` are block-scoped, meaning they only exist inside the `{ }` braces where they're declared. A **block** is a section of code enclosed in curly braces `{ }`, like the body of an if statement or loop.
 
 #### Naming Best Practices
 ```javascript

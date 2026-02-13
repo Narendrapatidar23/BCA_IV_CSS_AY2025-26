@@ -627,9 +627,63 @@ When you're ready to move on, Week 3 covers:
 
 ---
 
+## 📚 Week 2 Terminology Reference
+
+For consistency, all key terms introduced in Week 2 are defined at first use across the five days:
+
+| Term | Day Introduced | Definition | Example |
+|------|---|---|---|
+| **Expression** | Day 1 | Code that produces a value | `10 + 20`, `age > 18` |
+| **Statement** | Day 1 | A complete instruction | `let x = 5;`, `if (x > 0) { }` |
+| **Binding** | Day 1 | Named variable storage | `const PI = 3.14;` |
+| **Block** | Day 1 | Code in curly braces { } | `if { ... }`, `while { ... }` |
+| **Scope** | Day 1 | Where variable can be used | Block-scoped with `let`/`const` |
+| **Integer** | Day 2 | Whole number (no decimal) | `-5, 0, 42, 1000` |
+| **Function** | Day 2 | Reusable code block | `function greet(name) { }` |
+| **Parameter** | Day 2 | Variable in function definition | `function add(a, b)` |
+| **Argument** | Day 2 | Value passed to function | `add(5, 3)` |
+| **Return** | Day 2 | Value sent back from function | `return result;` |
+| **Arrow Function** | Day 2 | Modern concise function | `const add = (a, b) => a + b;` |
+| **Condition** | Day 3 | Boolean expression tested | `age >= 18`, `score > 50` |
+| **Remainder** | Day 3 | Value left after division | `7 % 2 = 1` (modulus operator) |
+| **Iteration** | Day 4 | One pass through a loop | Loop runs 5 times = 5 iterations |
+
+---
+
+## 🔗 Week 2 Content Organization Map
+
+**Day 1: Foundations**
+- Understanding expressions vs statements
+- Storing values with variables (const vs let)
+- Learning the environment concept
+
+**Day 2: Functions**
+- Creating reusable code blocks with functions
+- Understanding parameters and return values
+- Learning function syntax (traditional and arrow)
+
+**Day 3: Decisions**
+- Making choices with if/else statements
+- Using comparison operators (===, !==, >, <, etc.)
+- Combining conditions with logical operators (&&, ||, !)
+
+**Day 4: Repetition (part 1)**
+- Understanding loops and iterations
+- Using while loops (condition-first)
+- Using do...while loops (body-first)
+- Loop control with break and continue
+
+**Day 5: Repetition (part 2) + Integration**
+- Using for loops (compact counting loops)
+- Nested loops for complex patterns
+- Integrating all Week 2 concepts into a full project
+
+---
+
 **File:** `Curriculum/Week-2/Day5-For-Loops-And-Integration.md`  
 **Status:** Complete ✅  
-**Last Updated:** February 2026
+**Last Updated:** February 2026  
+**Audit Status:** Consistency fixes applied, terminology consolidated ✅
 
 ---
 
